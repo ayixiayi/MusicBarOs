@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GestureOS Mobile</string>
+    <string name="title_activity_main">GestureOS Mobile</string>
+    <string name="package_name">com.bao.gesture.android</string>
+    <string name="custom_url_scheme">com.bao.gesture.android</string>
+</resources>
