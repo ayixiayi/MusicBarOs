@@ -1,7 +1,0 @@
-{
-  "name": "Music Bar OS",
-  "description": "A rotary-controlled music visualizer and management system for physical music bars.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
